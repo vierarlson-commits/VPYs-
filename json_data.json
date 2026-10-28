@@ -1,0 +1,142 @@
+[
+  {
+    "Arasaka": {
+      "founded year": 2011,
+      "members": {
+        "ceo": {
+          "id": "Ka7XKRXr",
+          "name": "Nikolas Mendy",
+          "age": 51,
+          "country": "Norway"
+        },
+        "board of directors": [
+          {
+            "id": "2oYuCqQm",
+            "name": "John Weak",
+            "age": 45,
+            "country": "England"
+          },
+          {
+            "id": "HRrkLBhA",
+            "name": "Lylia Smith",
+            "age": 38,
+            "country": "USA"
+          },
+          {
+            "id": "i5GeFjI4",
+            "name": "Aaron Logal",
+            "age": 41,
+            "country": "Italia"
+          }
+        ],
+        "employees": [
+          {
+            "id": "2fyTJpRg",
+            "name": "Alex Hirsh",
+            "age": 23,
+            "country": "Russia",
+            "occupation": "ML developer"
+          },
+          {
+            "id": "3x1zf0lE",
+            "name": "Sarah Connor",
+            "age": 28,
+            "country": "Canada",
+            "occupation": "Data Scientist"
+          },
+          {
+            "id": "xP10VIJf",
+            "name": "Hiroshi Tanaka",
+            "age": 31,
+            "country": "Japan",
+            "occupation": "DevOps Engineer"
+          },
+          {
+            "id": "SkepPPqf",
+            "name": "Elena Papadopoulos",
+            "age": 26,
+            "country": "Greece",
+            "occupation": "Frontend Developer"
+          },
+          {
+            "id": "yIlKX2vf",
+            "name": "Mateo Hernandez",
+            "age": 34,
+            "country": "Mexico",
+            "occupation": "Backend Developer"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Militech": {
+      "founded year": 2014,
+      "members": {
+        "ceo": {
+          "id": "Ak1qM4cC",
+          "name": "Hans Gruber",
+          "age": 55,
+          "country": "Austria"
+        },
+        "board of directors": [
+          {
+            "id": "uIPVnabb",
+            "name": "William Vance",
+            "age": 52,
+            "country": "UK"
+          },
+          {
+            "id": "9Wv4Yr3f",
+            "name": "Clara Dupont",
+            "age": 46,
+            "country": "France"
+          },
+          {
+            "id": "CQ2jwqJW",
+            "name": "Kenji Sato",
+            "age": 49,
+            "country": "Japan"
+          }
+        ],
+        "employees": [
+          {
+            "id": "HMvYFFEk",
+            "name": "Diego Alvarez",
+            "age": 27,
+            "country": "Spain",
+            "occupation": "Data Engineer"
+          },
+          {
+            "id": "8lqTemZn",
+            "name": "Yuki Tanaka",
+            "age": 24,
+            "country": "Japan",
+            "occupation": "UX Designer"
+          },
+          {
+            "id": "YiDP6vO5",
+            "name": "Amina Diop",
+            "age": 30,
+            "country": "Senegal",
+            "occupation": "QA Engineer"
+          },
+          {
+            "id": "sIY9nBfi",
+            "name": "Lucas Meyer",
+            "age": 29,
+            "country": "Germany",
+            "occupation": "Cloud Architect"
+          },
+          {
+            "id": "2mQKdzCa",
+            "name": "Priya Sharma",
+            "age": 33,
+            "country": "India",
+            "occupation": "Product Manager"
+          }
+        ]
+      }
+    }
+  }
+]
